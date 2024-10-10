@@ -1,8 +1,13 @@
 <p align="center">
-  <a href="https://github.com/TheGrca">
-    Ivan Grcic</a>
+  <a href="https://github.com/TheGrca" style="font-family: 'Fira Code', monospace; color: #f75c7e; height: 20px; line-height: 20px; display: inline-block;">
+    Ivan Grcic
+  </a>
 </p>
-**`Software Engineering student at the Faculty of Technical Sciences, Novi Sad in Serbia`**
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello, %20I%20am%20Ivan%20Grcic;Software%20Engineering%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/></a>
+</p>
 
 As a highly motivated and dedicated individual, I am always eager to take on new challenges and push myself to achieve my goals. With my confidence and can-do attitude, I am not afraid to take risks and explore new opportunities. I am a hard worker who is willing to put in the time and effort necessary to succeed. Whether I am working independently or as part of a team, I am always willing to lend a helping hand and go the extra mile to get the job done. My commitment to excellence and my passion for success make me an ideal candidate for any task or role I undertake.
 
