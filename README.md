@@ -21,6 +21,7 @@ I am a **4th-year Software Engineering student** at the Faculty of Technical Sci
 
 As a motivated and dedicated individual, I thrive on new challenges and am eager to achieve my goals. With a confident, can-do attitude, I embrace risks and seek out opportunities. I am a hard worker who is committed to putting in the effort necessary for success, whether working independently or as part of a team. My commitment to excellence and passion for success make me an ideal candidate for any role I take on.
 
+You can check out my resume [here](https://drive.google.com/file/d/1va0VpsZiaiRm5AWCs02179ZZQ8fYWk9i/view?usp=drive_link).
 <br>
 <be>
 
