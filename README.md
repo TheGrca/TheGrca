@@ -1,15 +1,28 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/z8jK3wZUCvZJcCx7DP/giphy.gif" alt="Animated Line" width="100%" height="30"/>
+</p>
+
 <p align="center">  
-   <img src="https://github.com/TheGrca/TheGrca/blob/main/IVAN%20GRCIC.png" alt="Ivan Grcic" style="width:400px;">
+   <img src="https://github.com/TheGrca/TheGrca/blob/main/IVAN%20GRCIC%20.png" alt="Ivan Grcic" style="width:400px;">
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello, %20I%20am%20Ivan%20Grcic;Software%20Engineering%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=18bde7&vCenter=true&pause=1000&size=22"/></a>
+  <img src="https://media.giphy.com/media/z8jK3wZUCvZJcCx7DP/giphy.gif" alt="Animated Line" width="100%" height="30"/>
 </p>
-<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello, %20I%20am%20Ivan%20Grcic;Software%20Engineering%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=30&color=18bde7&vCenter=true&pause=500&size=30"/></a>
+</p>
+<br/>
 
-As a highly motivated and dedicated individual, I am always eager to take on new challenges and push myself to achieve my goals. With my confidence and can-do attitude, I am not afraid to take risks and explore new opportunities. I am a hard worker who is willing to put in the time and effort necessary to succeed. Whether I am working independently or as part of a team, I am always willing to lend a helping hand and go the extra mile to get the job done. My commitment to excellence and my passion for success make me an ideal candidate for any task or role I undertake.
-<br><br><br>
+## 👋 About Me
+
+I am a **4th-year Software Engineering student** at the Faculty of Technical Sciences in Novi Sad, set to graduate in **2025**. During my third year, I served as a **teaching assistant** in a Computer Science class, grading **32 students** in Object-Oriented Programming and related technologies. Currently, I’m gaining valuable experience working at **Wincado** in Novi Sad as a Software Engineer. As a proud member of **EESTEC Novi Sad**, I actively engage in tech-related initiatives. I've completed numerous projects, showcasing my skills and passion for software development. You can check out my work on my [GitHub repository](https://github.com/TheGrca?tab=repositories).
+
+As a motivated and dedicated individual, I thrive on new challenges and am eager to achieve my goals. With a confident, can-do attitude, I embrace risks and seek out opportunities. I am a hard worker who is committed to putting in the effort necessary for success, whether working independently or as part of a team. My commitment to excellence and passion for success make me an ideal candidate for any role I take on.
+
+<br>
+<be>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>   My Skills</b>
@@ -34,7 +47,8 @@ As a highly motivated and dedicated individual, I am always eager to take on new
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 </p> 
 <br>
-<br>
+<be>
+
 
 
 
@@ -56,12 +70,18 @@ As a highly motivated and dedicated individual, I am always eager to take on new
 </a>
 </div>
 <br>
-<br>
-
+<be>
+<!-- 
+<p align="center">
+  <img src="https://media.giphy.com/media/z8jK3wZUCvZJcCx7DP/giphy.gif" alt="Animated Line" width="100%" height="50"/>
+</p>
 <div align="center">
     <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 </div>
 <br>
-<br>
-
+<be>
+-->
+<p align="center">
+  <img src="https://media.giphy.com/media/z8jK3wZUCvZJcCx7DP/giphy.gif" alt="Animated Line" width="100%" height="50"/>
+</p>
 
