@@ -53,8 +53,11 @@ You can check out my resume [here](https://drive.google.com/file/d/1A8iFbX9F-uPA
 <br>
 <be>
 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpidzVjZ2xseWtpMGNkaGV5NzdibHEzdzRqZjI2YzhseDY1ZzBlYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> <b>  Leetcode</b>
 
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/thegrca?ext=heatmap" alt="Leetcode Stats"/>
+</div>
 
 
 ## :link: &nbsp;Connect with me
