@@ -16,7 +16,7 @@ As a motivated and dedicated individual, I thrive on new challenges and am eager
 
 You can check out my resume [here](https://drive.google.com/file/d/1A8iFbX9F-uPAAsyoY4W6maeeB_NcOw76/view?usp=sharing).
 <br>
-You can also visit my website [here](ivangrcic.com).
+You can also visit my website [here](https://ivangrcic.com).
 <br>
 <be>
 
