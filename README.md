@@ -5,24 +5,18 @@
 <p align="center">  
    <img src="https://github.com/TheGrca/TheGrca/blob/main/IVAN%20GRCIC%20.png" alt="Ivan Grcic" style="width:400px;">
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/z8jK3wZUCvZJcCx7DP/giphy.gif" alt="Animated Line" width="100%" height="30"/>
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello, %20I%20am%20Ivan%20Grcic;Software%20Engineering%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=30&color=18bde7&vCenter=true&pause=500&size=30"/></a>
-</p>
 <br/>
 
 ## 👋 About Me
 
-I am a **4th-year Software Engineering student** at the Faculty of Technical Sciences in Novi Sad, set to graduate in **2025**. During my third year, I served as a **teaching assistant** in a Computer Science class, grading **32 students** in Object-Oriented Programming and related technologies. Currently, I’m gaining valuable experience working at **Wincado** in Novi Sad as a Software Engineer. In addition, I started my start-up, **VRTY**, which should be available on Android/IOS and desktops and MACs at the beginning of next year. Currently a proud member of **EESTEC Novi Sad**.
+I am a **4th-year Software Engineering student** at the Faculty of Technical Sciences in Novi Sad. During my third year, I was a **teaching assistant** in a computer science class, mentored and assisted in grading **32 students** in Object-Oriented Programming and related technologies. I’m gaining valuable experience working at **Wincado** in Novi Sad as a **Freelance Software Engineer**. In addition, I started my start-up, **VRTY**, which should be available on Android/IOS soon. Currently a proud member of **EESTEC Novi Sad**.
 
 I've completed numerous projects, showcasing my skills and passion for software development. You can check out my work on my [GitHub repository](https://github.com/TheGrca?tab=repositories).
 As a motivated and dedicated individual, I thrive on new challenges and am eager to achieve my goals. With a confident, can-do attitude, I embrace risks and seek out opportunities. I am a hard worker who is committed to putting in the effort necessary for success, whether working independently or as part of a team. My commitment to excellence and passion for success make me an ideal candidate for any role I take on.
 
-You can check out my resume [here](https://drive.google.com/file/d/1s9E-dIMTXZqhhKmncZFvxDL5Aywr_gCV/view?usp=sharing).
+You can check out my resume [here](https://drive.google.com/file/d/1A8iFbX9F-uPAAsyoY4W6maeeB_NcOw76/view?usp=sharing).
+<br>
+You can also visit my website [here](ivangrcic.com).
 <br>
 <be>
 
