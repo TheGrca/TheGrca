@@ -26,7 +26,7 @@ I'm a **passionate problem-solver** who thrives on new challenges and embraces o
 
 ### 📂 My Work
 - 🔗 **Portfolio**: [ivangrcic.com](https://ivangrcic.com)
-- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1A8iFbX9F-uPAAsyoY4W6maeeB_NcOw76/view?usp=sharing)
+- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1va0VpsZiaiRm5AWCs02179ZZQ8fYWk9i/view?usp=sharing)
 - 💻 **GitHub**: Check out my [repositories](https://github.com/TheGrca?tab=repositories)
 
 <br>
