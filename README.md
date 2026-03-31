@@ -14,7 +14,6 @@
 **👨‍🏫 Former Teaching Demonstrator** | Mentored 32+ students in Object-Oriented Programming  
 **💻 Software Engineer** | Currently working at **Wincado**, Novi Sad  
 **🚀 Entrepreneur** | Founder of **VRTY** startup (Android/iOS app coming soon)  
-**🌟 Active Member** | **EESTEC Novi Sad**
 
 </div>
 
