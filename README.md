@@ -21,7 +21,7 @@
 
 ### 🌟 What Drives Me
 
-I'm a **passionate problem-solver** who thrives on new challenges and embraces opportunities with a confident, can-do attitude. Whether working independently or as part of a team, I bring dedication, excellence, and an unwavering commitment to success.
+I like building things that work at scale. From backend architecture and microservices to full-stack mobile apps, I care about the full picture. System design, clean code, and delivering software that people actually use. I enjoy owning problems end-to-end, whether that means designing a database schema, wiring up an API, or shipping a product from zero.
 
 ### 📂 My Work
 - 🔗 **Portfolio**: [ivangrcic.com](https://ivangrcic.com)
