@@ -10,10 +10,10 @@
 
 <div align="center">
   
-**🎓 BSc in Electrical And Computer Engineering** | Faculty of Technical Sciences, Novi Sad  
+**🎓 BSc in Electrical And Computer Engineering** | Faculty of Technical Sciences, Novi Sad
+**💻 Backend Software Developer** | Currently working at **ElevateBits**, Banja Luka
 **👨‍🏫 Former Teaching Demonstrator** | Mentored 32+ students in Object-Oriented Programming  
-**💻 Software Engineer** | Currently working at **Wincado**, Novi Sad  
-**🚀 Entrepreneur** | Founder of **VRTY** startup (Android/iOS app coming soon)  
+**🚀 Entrepreneur** | Founder of **VRTY** startup (zavrty.com)  
 
 </div>
 
