@@ -9,15 +9,10 @@
 ## 👋 About Me
 
 <div align="center">
-
-**🎓 BSc in Electrical And Computer Engineering** | Faculty of Technical Sciences, Novi Sad
-
-**💻 Backend Software Developer** | Currently working at **ElevateBits**, Banja Luka
-
-**👨‍🏫 Former Teaching Demonstrator** | Mentored 32+ students in Object-Oriented Programming
-
-**🚀 Entrepreneur** | Founder of **VRTY** startup (zavrty.com)
-
+<b>🎓 BSc in Electrical And Computer Engineering</b> | Faculty of Technical Sciences, Novi Sad<br/>
+<b>💻 Backend Software Developer</b> | Currently working at <b>ElevateBits</b>, Banja Luka<br/>
+<b>👨‍🏫 Former Teaching Demonstrator</b> | Mentored 32+ students in Object-Oriented Programming<br/>
+<b>🚀 Entrepreneur</b> | Founder of <b>VRTY</b> startup (zavrty.com)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=2&section=header" width="100%" alt="divider"/>
@@ -62,25 +57,21 @@ I like building things that work at scale. From backend architecture and microse
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheGrca&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=12" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGrca&layout=compact&langs_count=4&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top Languages"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGrca&theme=tokyonight&hide_border=true&border_radius=12" width="600" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheGrca&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="Contribution Graph"/>
 
 </div>
 
 <br>
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheGrca&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheGrca/TheGrca/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheGrca/TheGrca/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TheGrca/TheGrca/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+
 </div>
 
 <br>
